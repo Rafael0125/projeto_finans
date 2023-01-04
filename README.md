@@ -1,5 +1,5 @@
-# projeto_finans
-Projeto criando em conjunto com o professor Jamilton Damasceno no curso de Bootstrap
+# Projeto Finans
+Projeto criado em conjunto com o professor Jamilton Damasceno durante o curso de Bootstrap
 
 
 #### Tecnologias usadas no projeto
